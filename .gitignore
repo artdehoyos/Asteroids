@@ -1,4 +1,15 @@
 #################
+# PhpStorm/WebStorm/IntelliJ
+#################
+.idea/
+
+#################
+# Phaser core files - should come from phaser repo
+#################
+
+*phaser*
+
+#################
 ## Eclipse
 #################
 
